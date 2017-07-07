@@ -749,7 +749,7 @@
 	</div>	
 </div>
 
-<?php /* moje prvni poznamka */ ?>
+<?php /* moje druha poznamka */ ?>
 	
 </body> 
 </html> 
