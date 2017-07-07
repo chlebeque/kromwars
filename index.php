@@ -748,6 +748,8 @@
 		</div>
 	</div>	
 </div>
+
+<?php /* moje prvni poznamka */ ?>
 	
 </body> 
 </html> 
